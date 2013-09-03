@@ -7,7 +7,7 @@ Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This free WPML Addon removes the WP Menus Sync sub menu from the WPML sidebar menu in the backend and it hides the menu synchronization link that is displayed on the nav-menus pages.
+This free WPML Addon removes the WP Menus Sync sub menu from the WPML sidebar menu in the backend.
 
 == Description ==
 
