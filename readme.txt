@@ -62,7 +62,7 @@ This plugin is an Addon for [WPML](http://wpml.org), the plugin that enables any
 
 = I have an issue with this plugin, where can I get support? =
 
-Please open an issue here on [Github](https://github.com/so-wp/so-remove-wpml-menu-sync/issues)
+Please open an issue on [Github](https://github.com/so-wp/so-remove-wpml-menu-sync/issues)
 
 == Screenshots ==
 
