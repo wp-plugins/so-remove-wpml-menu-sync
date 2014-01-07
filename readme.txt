@@ -35,10 +35,6 @@ Thanks for your understanding and cooperation.
 
 == Installation ==
 
-Quick installation: [Install now](http://coveredwebservices.com/wp-plugin-install/?plugin=so-remove-wpml-menu-sync) !
-
- &hellip; OR &hellip;
-
 Go to **Plugins > Add New** in your WordPress Dashboard, do a search for "so remove wpml menu sync" and install it.
 
  &hellip; OR &hellip;
@@ -48,7 +44,7 @@ Go to **Plugins > Add New** in your WordPress Dashboard, do a search for "so rem
 
  2. Upload the zip file via the Plugins > Add New > Upload page &hellip; OR &hellip; unpack and upload with your favourite FTP client to the /plugins/ folder.
 
- 3. Activate the plugin on the Plug-ins page.
+ 3. Activate the plugin on the Plugins page.
 
 Done!
 
