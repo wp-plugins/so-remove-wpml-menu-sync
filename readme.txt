@@ -1,5 +1,5 @@
 === SO Remove WPML Menu Sync ===
-Contributor: senlin
+Contributors: senlin
 Donate link: http://so-wp.com/donations
 Tags: wpml, menu, sync, synchronization, addon
 Requires at least: 3.6
