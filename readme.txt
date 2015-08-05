@@ -2,7 +2,7 @@
 Contributors: senlin
 Donate link: http://so-wp.com/donations
 Tags: wpml, menu, sync, synchronization, addon
-Requires at least: 2.0
+Requires at least: 4.0
 Tested up to: 4.2
 Stable tag: 2015.04.09
 License: GPLv2 or later
